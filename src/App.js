@@ -5,7 +5,7 @@ import { ThemeContext } from './contexts/ThemeContext';
 import { Main, BlogPage, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
-
+// import {Particles} from 'tsparticles';
 import './App.css'
 
 function App() {
@@ -14,10 +14,23 @@ function App() {
 
   console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
   console.log("%chttps://github.com/hhhrrrttt222111/developer-portfolio", `color:${theme.tertiary}; font-size:20px`);
+ 
   // console.log = console.warn = console.error = () => {};
 
   return (
     <div className="app">
+      {/* <Particles params={{
+        particles:{
+          number:{
+            value:200,
+            density:{
+              enable: true,
+              value_area: 1000,
+            }
+          }
+        }
+      }}/>  */}
+       
       <Router>
         <ScrollToTop/>
         <Switch>
@@ -34,3 +47,4 @@ function App() {
 }
 
 export default App;
+
