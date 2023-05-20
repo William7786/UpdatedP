@@ -5,7 +5,7 @@ import blueThemeboy from '../assets/img/Education.gif'
 import eduBlue from '../assets/img/Education.gif'
 
 
-import expBlue from '../assets/img/Experience.gif'
+import expBlue from '../assets/img/ECUE.png'
 import expGreen from '../assets/svg/experience/expGreen.svg'
 import expBlack from '../assets/svg/experience/expBlack.svg'
 import expOrange from '../assets/svg/experience/expOrange.svg'
