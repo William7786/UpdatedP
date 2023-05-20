@@ -42,12 +42,15 @@
 }
 
 .project-grid {
-    display: flex;
-    gap: 4rem; 
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4rem;
 }
 
 @media (min-width: 992px) and (max-width: 1380px) {
-
+    .project-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media screen and (max-width: 992px) {
@@ -75,6 +78,7 @@
         font-size: 3rem;
     }
 }
+
 @media screen and (max-width: 400px) {
     .projectPage-header {
         height: 20vh;

@@ -1,7 +1,8 @@
 import image from '../assets/img/image0.jpeg'
 export const aboutData = {
-    title: "Who I am",
-    description1: "Hello! My name is William Fyle",
-    description2: "I am a current graduate of East Carolina University College of Business. During my time at ECU, I have had the opportunity to explore what leadership means to me. I was able to expand my knowledge by contributing to multiple teams and authoring countless reports on Contemporary Strategy Management that show my knowledge of the business world I am an adaptive learner and like to experience new aspects of business and technology. I have explored the world of full-stack development at UNC-Chapel Hill where I have constructed multiple front-end and back-end applications and websites. This Bootcamp Consisted of a 24-Week program with an added 240 hours for projects that have expanded my knowledge of web development. This course grew my ability to contribute to teams through GitHub and most importantly I have learned to be an effective and efficient member of a digital team. Currently, I am exploring the Digital marketing world with NC State. This Digital Marketing Bootcamp has continued to improve my leadership and public speaking skills. I have been a part of a mock digital marketing agency throughout the course of the program named “Real World Marketing” where we have constructed social media marketing strategies, competitive analysis, and content calendars for a client provided by NC State. Overall, Each achievement has taught me not just how to work in a team but to act and not be afraid of failure when working towards success. Below are some of my academic achievements in my pursuit of personal development.",
-    image: 2
+    title: "About",
+    description1: "I am a highly motivated student with a strong educational background and diverse experiences. Armed with a foundation in business from East Carolina University College of Business and specialized training from UNC-Chapel Hill's Full Stack Development Bootcamp and NC State's Digital Marketing Bootcamp, I possess a well-rounded skill set encompassing technical expertise and strategic marketing knowledge. Certified in Microsoft Excel, Access, Word, PowerPoint, Full Stack Web Development, and SEO, I am equipped to contribute to team success. With a strong work ethic, adaptability, and collaborative spirit, I value teamwork and view failure as a steppingstone to success. ",
+    description2: "Explore my accomplishments below as I strive for continuous personal and professional growth.",
+
+    image: 1
 }

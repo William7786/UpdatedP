@@ -12,7 +12,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Refyne Fitness',
-        projectDesc: '',
+        projectDesc: 'I developed Refyne Fitness, a solo project on WordPress. It it a comprehensive e-commerce website catering to fitness enthusiasts. The website was built from scratch with enhanced features for a seamless user experience and smooth online transactions.',
         tags: ['Wordpress', 'SEO' ,'Ecommerce', 'Blog'],
         demo: 'https://s338.marketingnetwork.site/',
         image: one
@@ -20,7 +20,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Daily Planner',
-        projectDesc: '',
+        projectDesc: 'I created a daily planner application that allows users to track goals, tasks, and progress throughout the day. It provides a comprehensive tool for organizing activities and enhancing productivity.',
         tags: ['HTML', 'CSS','Javascript'],
         code: 'https://github.com/William7786/Daily-Planner',
         demo: 'https://william7786.github.io/Daily-Planner/',
@@ -44,60 +44,60 @@ export const projectsData = [
         demo: 'https://reliance-digital-clone.herokuapp.com/',
         image: "https://miro.medium.com/max/875/1*qRNfRbuHCDC1ct0chLZoWA.png"
     },
-    {
-        id: 5,
-        projectName: 'Reliance Digital Clone - Frontend',
-        projectDesc: 'This project is the clone of Reliance Digital built as a part of a project week. It simulates the functionality of an e-commerce website from landing page to checkout. My contribution was the product catalog page arriving from the navbar, as well as leading the team.',
-        tags: ['HTML', 'CSS', 'Javascript'],
-        code: 'https://github.com/iamrituyadav/Reliance_digital',
-        demo: 'https://reliance-digital-clone.herokuapp.com/',
-        image: "https://miro.medium.com/max/875/1*qRNfRbuHCDC1ct0chLZoWA.png"
-    },
-    {
-        id: 6,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    }, 
-    {
-        id: 7,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    }, 
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    }, 
-    {
-        id: 9,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    }, 
-    {
-        id: 10,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    }, 
+    // {
+    //     id: 5,
+    //     projectName: 'Reliance Digital Clone - Frontend',
+    //     projectDesc: 'This project is the clone of Reliance Digital built as a part of a project week. It simulates the functionality of an e-commerce website from landing page to checkout. My contribution was the product catalog page arriving from the navbar, as well as leading the team.',
+    //     tags: ['HTML', 'CSS', 'Javascript'],
+    //     code: 'https://github.com/iamrituyadav/Reliance_digital',
+    //     demo: 'https://reliance-digital-clone.herokuapp.com/',
+    //     image: "https://miro.medium.com/max/875/1*qRNfRbuHCDC1ct0chLZoWA.png"
+    // },
+    // {
+    //     id: 6,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: '',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // }, 
+    // {
+    //     id: 7,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: '',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // }, 
+    // {
+    //     id: 8,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: '',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // }, 
+    // {
+    //     id: 9,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: '',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // }, 
+    // {
+    //     id: 10,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: '',
+    //     tags: ['Flutter', 'React'],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // }, 
 ]
 
 

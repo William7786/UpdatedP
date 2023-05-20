@@ -17,7 +17,7 @@
     padding: 2rem;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: flex-end;
     justify-content: center;
     margin-left: 7%;
 }
@@ -31,13 +31,13 @@
 .education-card {
     display: flex;
     flex-direction: row;
-    align-items:flex-start;
+    align-items: flex-start;
     justify-content: flex-start;
     width: 90%;
-    height: 140px;
-    padding: 1.5rem;
+    height: 120px;
+    padding: 1.2rem;
     border-radius: 20px;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
     transition: background-color 200ms ease-in-out;
 }
 
@@ -83,6 +83,7 @@
     padding: 1rem;
     flex: 0.35;
     margin-top: 1rem;
+    margin-right:-133px;
     pointer-events: none;
 }
 

@@ -1,17 +1,11 @@
-import blueThemegirl from '../assets/svg/about/blueTheme-girl.svg'
-import blueThemeboy from '../assets/img/GraduationU.png'
+
+import blueThemeboy from '../assets/img/Education.gif'
 
 
-import eduBlue from '../assets/svg/about/blueTheme-boy.svg'
-import eduGreen from '../assets/svg/education/eduGreen.svg'
-import eduBlack from '../assets/svg/education/eduBlack.svg'
-import eduOrange from '../assets/svg/education/eduOrange.svg'
-import eduPink from '../assets/svg/education/eduPink.svg'
-import eduPurple from '../assets/svg/education/eduPurple.svg'
-import eduRed from '../assets/svg/education/eduRed.svg'
-import eduYellow from '../assets/svg/education/eduYellow.svg'
+import eduBlue from '../assets/img/Education.gif'
 
-import expBlue from '../assets/svg/experience/expBlue.svg'
+
+import expBlue from '../assets/img/Experience.gif'
 import expGreen from '../assets/svg/experience/expGreen.svg'
 import expBlack from '../assets/svg/experience/expBlack.svg'
 import expOrange from '../assets/svg/experience/expOrange.svg'
@@ -31,7 +25,7 @@ import contactsYellow from '../assets/svg/contacts/contactsYellow.svg'
 
 
 export { 
-    blueThemegirl, blueThemeboy, eduBlue,eduBlack,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,
+    blueThemeboy,eduBlue,
     expBlue,expBlack,expGreen,expOrange,expPink,expPurple,expRed,expYellow,contactsBlue,contactsBlack,
     contactsGreen,contactsOrange,contactsPink,contactsPurple,contactsRed,contactsYellow
 }

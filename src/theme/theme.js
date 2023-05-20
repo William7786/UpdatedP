@@ -1,6 +1,6 @@
-/* eslint-disale */
+/* eslint-disable */
 import { 
-    blueThemegirl, blueThemeboy, eduBlack,eduBlue,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,expBlack,expBlue,expGreen,expOrange,
+     blueThemeboy,eduBlue,expBlack,expBlue,expGreen,expOrange,
     expPink,expPurple,expRed,expYellow,contactsBlack,contactsBlue,contactsGreen,contactsOrange,contactsPink,contactsPurple,
     contactsRed,contactsYellow
 } from './images'
@@ -22,8 +22,8 @@ export const greenThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduGreen,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expGreen,
     contactsimg: contactsGreen
 }
@@ -44,8 +44,8 @@ export const greenThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduGreen,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expGreen,
     contactsimg: contactsGreen
 }
@@ -65,8 +65,8 @@ export const bwThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduBlack,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expBlack,
     contactsimg: contactsBlack
 }
@@ -86,8 +86,8 @@ export const bwThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduBlack,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expBlack,
     contactsimg: contactsBlack
 }
@@ -100,15 +100,15 @@ export const blueThemeLight = {
     primary80: '#545fc4cc',
     primary50: '#545fc480',
     primary30: '#545fc44d',
-    secondary: '#eaeaea',
+    secondary: 'rgb(255 255 255)',
     secondary70: '#eaeaeab3',
     secondary50: '#eaeaea80',
     tertiary: '#212121',
     tertiary80: '#212121cc',
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
-    aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
+    aboutimg1:blueThemeboy,
+    aboutimg2:blueThemeboy,
     eduimg: eduBlue,
     expimg: expBlue,
     contactsimg: contactsBlue
@@ -129,7 +129,7 @@ export const blueThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
+    aboutimg2: blueThemeboy,
     eduimg: eduBlue,
     expimg: expBlue,
     contactsimg: contactsBlue
@@ -151,8 +151,8 @@ export const redThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduRed,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expRed,
     contactsimg: contactsRed
 }
@@ -172,8 +172,8 @@ export const redThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduRed,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expRed,
     contactsimg: contactsRed
 }
@@ -194,8 +194,8 @@ export const orangeThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduOrange,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expOrange,
     contactsimg: contactsOrange
 }
@@ -215,8 +215,8 @@ export const orangeThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduOrange,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expOrange,
     contactsimg: contactsOrange
 }
@@ -237,8 +237,8 @@ export const purpleThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduPurple,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expPurple,
     contactsimg: contactsPurple
 }
@@ -258,8 +258,8 @@ export const purpleThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduPurple,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expPurple,
     contactsimg: contactsPurple
 }
@@ -280,8 +280,8 @@ export const pinkThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduPink,
+    aboutimg2: blueThemeboy,
+    eduimg:eduBlue,
     expimg: expPink,
     contactsimg: contactsPink
 }
@@ -301,8 +301,8 @@ export const pinkThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduPink,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expPink,
     contactsimg: contactsPink
 }
@@ -323,8 +323,8 @@ export const yellowThemeLight = {
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduYellow,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expYellow,
     contactsimg: contactsYellow
 }
@@ -345,8 +345,8 @@ export const yellowThemeDark = {
     tertiary70: '#eaeaeab3',
     tertiary50: '#eaeaea80',
     aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
-    eduimg: eduYellow,
+    aboutimg2: blueThemeboy,
+    eduimg: eduBlue,
     expimg: expYellow,
     contactsimg: contactsYellow
 }
